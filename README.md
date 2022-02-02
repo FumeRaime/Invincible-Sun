@@ -6,8 +6,23 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 <figure><embed src="https://wakatime.com/share/@7889c3f6-8c28-4326-9fea-9ff8263aca39/8bc25f87-bf0a-482d-8ac0-b77b3d4f4ea1.svg"></embed></figure>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
+## My statistics
+
+<a href="#" target="_blank">
+   <img src="https://komarev.com/ghpvc/?username=Invincible-Sun&color=success&style=flat-square" alt="https://github.com/Invincible-Sun" />
+</a>
+<a href="#" target="_blank">
+   <img alt="Invincible-Sun" src="https://badges.pufler.dev/visits/Invincible-Sun/Invincible-Sun?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/>
+</a>
+<a href="#" target="_blank">
+   <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Invincible-Sun/Invincible-Sun?label=Profile%20updated&style=flat-square">
+</a>
+
+<a href="https://wakatime.com/@2ab39d17-44a5-4823-8a27-97945eee1ce4">
+  <figure><embed src="https://wakatime.com/share/@7889c3f6-8c28-4326-9fea-9ff8263aca39/8bc25f87-bf0a-482d-8ac0-b77b3d4f4ea1.svg"></embed></figure>
+</a>
+
 **Invincible-Sun/Invincible-Sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
