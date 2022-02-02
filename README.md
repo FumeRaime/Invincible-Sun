@@ -26,9 +26,9 @@ No Activity tracked this Week
 ### My global activity
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Invincible-Sun&theme=monokai" alt="stats" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Invincible-Sun&theme=monokai" alt="langs" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Invincible-Sun&theme=monokai" alt="overall stats" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Invincible-Sun&theme=dracula" alt="stats" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Invincible-Sun&theme=dracula" alt="langs" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Invincible-Sun&theme=dracula" alt="overall stats" />
 </div>
 
 ## Base
