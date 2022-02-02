@@ -23,6 +23,16 @@ No Activity tracked this Week
   <figure><embed src="https://wakatime.com/share/@7889c3f6-8c28-4326-9fea-9ff8263aca39/8bc25f87-bf0a-482d-8ac0-b77b3d4f4ea1.svg"></embed></figure>
 </a>
 
+### My global activity
+
+<img src="https://www.codewars.com/users/lipa44/badges/large" alt="lipa44" />
+
+<div display="inline-flex"  align-items="center" justify-content="space-between">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Invincible-Sun&theme=monokai" alt="stats" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Invincible-Sun&theme=monokai" alt="langs" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Invincible-Sun&theme=monokai" alt="overall stats" />
+</div>
+
 **Invincible-Sun/Invincible-Sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
