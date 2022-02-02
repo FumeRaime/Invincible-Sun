@@ -1,4 +1,6 @@
 ### Hi there 👋
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <figure><embed src="https://wakatime.com/share/@7889c3f6-8c28-4326-9fea-9ff8263aca39/8bc25f87-bf0a-482d-8ac0-b77b3d4f4ea1.svg"></embed></figure>
 <!--
