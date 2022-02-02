@@ -6,7 +6,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 <figure><embed src="https://wakatime.com/share/@7889c3f6-8c28-4326-9fea-9ff8263aca39/8bc25f87-bf0a-482d-8ac0-b77b3d4f4ea1.svg"></embed></figure>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Invincible-Sun)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible-Sun&hide=javascript,css,scss,html&theme=tokyonight)
 <!--
 **Invincible-Sun/Invincible-Sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
