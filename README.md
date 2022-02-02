@@ -25,8 +25,6 @@ No Activity tracked this Week
 
 ### My global activity
 
-<img src="https://www.codewars.com/users/Invincible-Sun/badges/large" alt="Invincible-Sun" />
-
 <div display="inline-flex"  align-items="center" justify-content="space-between">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Invincible-Sun&theme=monokai" alt="stats" />
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Invincible-Sun&theme=monokai" alt="langs" />
