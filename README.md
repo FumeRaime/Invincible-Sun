@@ -1,6 +1,8 @@
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Swift            1 hr 51 mins    ████████████████████░░░░░   80.52 % 
+Cocoa            20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+C#               5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 ```
 <!--END_SECTION:waka-->
 
