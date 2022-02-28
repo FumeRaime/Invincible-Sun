@@ -1,11 +1,14 @@
 <!--START_SECTION:waka-->
+
 ```text
-C#               9 hrs 10 mins   ███████████████████▒░░░░░   76.67 % 
-F#               2 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.06 % 
-XML              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Solution File    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+C#               5 hrs 24 mins   █████████████████████▓░░░   86.79 %
+F#               44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
+
 <!--END_SECTION:waka-->
 
 <figure><embed src="https://wakatime.com/share/@7889c3f6-8c28-4326-9fea-9ff8263aca39/8bc25f87-bf0a-482d-8ac0-b77b3d4f4ea1.svg&v=2"></embed></figure>
