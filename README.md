@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#   5 mins          █████████████████████████   100.00 %
+Swift   32 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
