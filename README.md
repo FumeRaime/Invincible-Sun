@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Swift   32 mins         █████████████████████████   100.00 %
+Swift   3 hrs 43 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
