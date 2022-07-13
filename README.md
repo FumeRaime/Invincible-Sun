@@ -1,7 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Swift   2 hrs 22 mins   ████████████████████████▓   98.53 %
+XML     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
