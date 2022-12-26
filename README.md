@@ -1,10 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#              4 hrs 30 mins   ████████████████████████▓   98.92 %
-XML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-TypeScript      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Solution File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C#               2 hrs 42 mins   █████████████████████████   99.98 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
