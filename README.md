@@ -1,8 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Text   1 min           ████████████████████░░░░░   80.50 %
-C#     0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
